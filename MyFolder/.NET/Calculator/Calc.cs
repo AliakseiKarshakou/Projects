@@ -20,7 +20,7 @@
         
         public static int Devide(int a, int b)
         {
-            return a*2*2 / 0;
+            return a / 0;
         }
     }
 }
