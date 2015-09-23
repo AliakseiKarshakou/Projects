@@ -1,0 +1,5 @@
+d:\Git\Demo\MyFolder\.NET\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+d:\Git\Demo\MyFolder\.NET\Calculator\bin\Debug\Calculator.dll
+d:\Git\Demo\MyFolder\.NET\Calculator\bin\Debug\Calculator.pdb
+d:\Git\Demo\MyFolder\.NET\Calculator\obj\x86\Debug\Calculator.dll
+d:\Git\Demo\MyFolder\.NET\Calculator\obj\x86\Debug\Calculator.pdb
